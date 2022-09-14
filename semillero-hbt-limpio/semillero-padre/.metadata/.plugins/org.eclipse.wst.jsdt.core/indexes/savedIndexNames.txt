@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Proyectos\semillero-hbt-limpio\semillero-padre\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1029993505.index
+68992140.index
+1357733284.index
+1906552322.index
+3410265719.index
